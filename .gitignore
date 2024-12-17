@@ -1,0 +1,13 @@
+/.idea
+/.fleet
+/vendor
+/.vscode
+/__MACOSX
+/public/hot
+/node_modules
+/public/build
+/storage/*.key
+/public/storage
+/.phpunit.cache
+.env
+.DS_Store
